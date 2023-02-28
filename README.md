@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, Eu sou o Wilson Menezes (Wilson Filho)
 
 <!--
 **WilsonFilho2/wilsonfilho2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://github.com/WilsonFilho2">
-
+  <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=wilsonfilho2&show_icons=true&theme=dark&include_all_commits=true&count_private=true" >
 </div>
